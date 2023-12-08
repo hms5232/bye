@@ -5,7 +5,7 @@ The cute Ferris will "pinch" connection **cleanly**!
 
 ![demo](https://i.imgur.com/5fJvBee.jpg)
 
-plan text:
+plain text:
 
 ```
 hms5232@remote-terminal:~/bye$ bye
