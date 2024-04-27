@@ -25,7 +25,9 @@ hms5232@local-terminal:~$
 
 ## Usage
 
-After download or clone project, run `cargo build --release`, then move/link the `target/release/bye` to your `$PATH`.
+Download binary from [release](https://github.com/hms5232/bye/releases) page, or clone this project and build binary by Cargo.
+
+After get the execution file, put it in your `$PATH`.
 
 Now, you can type `bye` in terminal!
 
