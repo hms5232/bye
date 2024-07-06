@@ -2,6 +2,13 @@
 name = "bye"
 version = "0.1.0"
 edition = "2021"
+description = "Bye bye, The cute Ferris will \"pinch\" connection cleanly!"
+readme = "README.md"
+repository = "https://github.com/hms5232/bye"
+license = "AGPL-3.0-or-later"
+keywords = ["bye"]
+categories = ["command-line-utilities"]
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
